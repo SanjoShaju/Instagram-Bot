@@ -29,7 +29,7 @@ That is why each bot should be different and should be catered to ones needs onl
 - At last the bot follows the person. and repeats the entire process  
 
 > Note -> This kind of process flow makes the working of bot looks like someone who got interested in that user’s profile and followed him, which in turn makes him to check out our user profile.
-- - - - 
+
 ## Technologies Used ##
 - __Selenium__ browser automation
 - __Chat bot__ for commenting using __Machine Learning__
