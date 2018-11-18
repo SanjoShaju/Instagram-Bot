@@ -32,5 +32,5 @@ That is why each bot should be different and should be catered to ones needs onl
 - - - - 
 ## Technologies Used ##
 - __Selenium__ browser automation
-- Chat bot for commenting using __Machine Learning__ (like a __Chat Bot__, where instead of chatting we are commenting)
+- __Chat bot__ for commenting using __Machine Learning__
 
