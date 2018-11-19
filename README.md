@@ -9,9 +9,9 @@
  
 ## Introduction ##
 What a bot does is interact with other people’s Instagram accounts, so you don’t have to do it manually.  
-If programmed correctly on an Instagram account with differentiated awesome content, a bot is like rocket-fuel! 
-It will multiply your rate of growth because it’ll allow your already-great account to be discovered many more people that you could have never reached if you were doing all of the interactions manually.  
-On the other hand, an incorrectly programmed bot on an account that doesn’t have delightful content will likely ensure that your Instagram appears spammy because many more people will receive an irrelevant interaction from an account they dislike (yours). 
+If programmed correctly, on an Instagram account with differentiated awesome content, a bot is like rocket-fuel! 
+It will multiply your rate of growth because it will allow your already-great account to be discovered by many more people that you could have never reached if you were doing all of the interactions manually.  
+On the other hand, an incorrectly programmed bot on an account that doesn’t have delightful content will likely ensure that your Instagram appears spammy because many people will receive irrelevant interactions from an account they dislike (yours). 
 It’s a terrible first impression, and worse of all, it’ll be a big waste of your time, energy and money because it simply won’t generate any substantial growth.  
 That is why each bot should be different and should be catered to ones needs only.  
 
